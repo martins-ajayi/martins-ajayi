@@ -11,7 +11,7 @@ My focus includes project governance, stakeholder engagement, scope and change c
 | --- | --- |
 | [Project Management Case Studies](https://github.com/martins-ajayi/project-management-portfolio) | Enrolment implementation, pension administration modernization and network application design |
 | [Project Management Toolkit](https://github.com/martins-ajayi/project-management-toolkit) | Practical lifecycle templates and a tested release evidence checker |
-| [Portfolio Website Source](https://github.com/martins-ajayi/portfolio) | Interactive case documents and professional profile |
+| [Portfolio Website](https://martins-ajayi.github.io/portfolio/) | Interactive case documents and professional profile |
 
 Tools in my résumé include Microsoft Project, Jira, Trello, ServiceNow, SharePoint and Microsoft 365.
 
